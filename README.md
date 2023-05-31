@@ -35,7 +35,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Setup Resources in Azure</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8H3ABIK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 1. Create a Resource Group: Start by creating a new Resource Group to organize and manage your Azure resources. Choose an appropriate name for the group, such as "AD-Lab"
@@ -58,7 +58,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Connect Client to Domain Controller</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SEdlbha.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 1. Remote Desktop into Client-1: Use Remote Desktop to connect to the Client-1 VM. Ensure that you have the necessary login credentials and access rights to establish the remote connection.
@@ -80,7 +80,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
   <h2>Install Active Directory</h2>
   
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8l3r5un.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 1. Log in to DC-1: Use Remote Desktop or any other preferred method to log in to the DC-1 VM using the appropriate credentials.
@@ -111,7 +111,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Create User Accounts in Active Directory</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gD6pTwE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 1. Log in to DC-1 as "mydomain.com\labuser": Use Remote Desktop or any other preferred method to log in to the DC-1 VM as the user "mydomain.com\labuser" (the previously mentioned username).
@@ -145,7 +145,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Connect Client-1 to our Domain</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Jyw1QM0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 1. Access Microsoft Azure Portal
@@ -179,7 +179,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Connect Client-1 to our Domain</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Jyw1QM0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 1. Log in to Client-1 as "jane_admin":
@@ -200,7 +200,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 <h2>Create additional users and login to one</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2DRjuD8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
