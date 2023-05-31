@@ -179,7 +179,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Connect Client-1 to our Domain</h2>
 
 <p>
-<img src="https://i.imgur.com/Jyw1QM0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jxZ5eKR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 1. Log in to Client-1 as "jane_admin":
